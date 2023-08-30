@@ -18,9 +18,9 @@ Este é um projeto de um cardápio de pizzaria desenvolvido em Javascript e Node
 
 ### Pré-requisitos
 
-Certifique-se de ter o npm instalado em sua máquina.
-Certifique-se de ter o Node.js instalado em sua máquina.
-Utilize alguma ferramenta que le auxilie na realização das ações do tipo POST, DELETE, como o Insomnia.
+- Certifique-se de ter o npm instalado em sua máquina.
+- Certifique-se de ter o Node.js instalado em sua máquina.
+- Utilize alguma ferramenta que le auxilie na realização das ações do tipo POST, DELETE, como o Insomnia.
 
 ### Passos
 
