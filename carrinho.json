@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "nome_pizza": "Margherita",
+    "valor": 5000,
+    "ingredientes": [
+      "Molho de tomate",
+      "Mozzarella",
+      "Manjericão"
+    ]
+  },
+  {
+    "nome_pizza": "Margherita",
+    "valor": 5000,
+    "ingredientes": [
+      "Molho de tomate",
+      "Mozzarella",
+      "Manjericão"
+    ]
+  },
+  {
+    "nome_pizza": "Calabresa",
+    "valor": 5000,
+    "ingredientes": [
+      "Molho de tomate",
+      "Calabresa fatiada",
+      "Cebola"
+    ]
+  }
+]
