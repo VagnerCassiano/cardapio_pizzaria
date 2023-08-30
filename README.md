@@ -46,4 +46,26 @@ Remove pizzas do carrinho de compras.
 - **GET** - http://localhost:8000/calcular-total
 Calcula o valor total das pizzas presentes no carrinho, obtendo um resumo do pedido.
 
+### Demonstração do Sistema
+
+#### Consultando Pizza
+
+![Consultando Pizza](imagens/Consultando%20Pizza.png)
+Consultando informações detalhadas sobre uma pizza específica.
+
+#### Adicionando ao Carrinho
+
+![Adicionando ao Carrinho](imagens/Adicionando%20ao%20carrinho.png)
+Adicionando pizzas ao carrinho de compras, podendo especificar a quantidade desejada.
+
+#### Adicionando ao Carrinho 2
+
+![Adicionando ao Carrinho 2](imagens/Adicionando%20ao%20carrinho%202.png)
+Adicionando mais pizzas ao carrinho de compras.
+
+#### Extrato
+
+![Extrato](imagens/Extrato.png)
+Resumo do pedido mostrando as pizzas no carrinho e a quantidade.
+
 
